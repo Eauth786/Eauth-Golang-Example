@@ -14,7 +14,7 @@ Configuration
 
 Navigate to `eauth/eauth.go`, and fill these lines of code:
 
-```python
+```go
 // Required configuration
 const accountKey string = ""            /* Your account key goes here */
 const applicationKey string = ""        /* Your application key goes here */
